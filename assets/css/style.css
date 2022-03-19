@@ -34,3 +34,33 @@ h1 {
     font-size: 300%;
     text-align: center;
 }
+
+/* navigation links */
+
+#menu {
+    font-size:80%;
+    clear: left;
+    letter-spacing: 2px;
+    line-height: 25px;
+
+
+}
+ #logo {
+    line-height: 25px;
+
+}
+
+#menu li{
+    list-style-type: none;
+    margin: 5px;
+    float: left;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
