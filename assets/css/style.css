@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Raleway:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: poppins, sans-serif;
+    font-weight: 200;
+    color: #6d8474;
+}
+
+/* Headings and Logo */ 
+
+#header {
+    position: fixed;
+    background-color: rgb(255,255,255,0.9);
+    width: 100%;
+}
+
+h1 {
+    font-family: Raleway, sans-serif;
+    letter-spacing: 2px;
+    color: #3a3a3a;
+    font-size: 180%;
+    padding: 15px;
+    text-align: center;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
+    text-align: center;
+}
