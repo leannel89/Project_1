@@ -64,3 +64,13 @@ h1 {
 #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/*Wellnest Cover image */ 
+
+#hero-image {
+    height: 600px;
+    background-image: url(../photos/hero_image.png);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+  }
