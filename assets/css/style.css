@@ -244,10 +244,9 @@ footer p {
         float: right;
         font-size: larger;
         clear: none;
+        line-height: 55px;
        }
-        #menu {
-           line-height: 55px;
-       }
+
 
 
     #iframe{
@@ -274,5 +273,16 @@ h2 {
 
 #workstation {
     height: 500px;}
+
+}
+
+
+/* Screens below 342px wide */ 
+
+@media screen and (max-width: 345px) {
+
+    #menu {
+        font-size: 11px;
+    }
 
 }
