@@ -234,3 +234,12 @@ footer p {
     padding:1%;
     color: #6d8474;
 }
+
+/*Media Queries*/
+/* Screens above 700px wide */ 
+
+@media screen and (min-device-width: 700px) {
+    #iframe{
+        height: 500px;
+    } 
+}
