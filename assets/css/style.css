@@ -81,6 +81,15 @@ h1 {
   }
 /* Risk Factor Section */
 
+#stress {
+    background: url('../photos/stress.png') center center;
+    height:400px;
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+
+
 #factors li {
     text-align: center;
     list-style-type: circle;
