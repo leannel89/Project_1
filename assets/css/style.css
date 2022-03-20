@@ -239,6 +239,16 @@ footer p {
 /* Screens above 700px wide */ 
 
 @media screen and (min-device-width: 700px) {
+    #menu {
+        float: right;
+        font-size: larger;
+        clear: none;
+       }
+        #menu {
+           line-height: 55px;
+       }
+
+
     #iframe{
         height: 500px;
     } 
