@@ -242,4 +242,13 @@ footer p {
     #iframe{
         height: 500px;
     } 
+    #exercise{
+        height: 500px;
+    }
+ 
+    #exercise p {
+        padding: 150px;
+ 
+ }
+
 }
