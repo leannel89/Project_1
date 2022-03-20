@@ -96,6 +96,16 @@ h1 {
     font-style: italic;
 }
 
+/*Beating Burnout Page */
+
+#burnout {
+    height: 600px;
+    background-image: url('../photos/burnout.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+
+}
 
   /* footer section */
 
