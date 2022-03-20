@@ -12,7 +12,7 @@ body {
     color: #6d8474;
 }
 
-p, h2{
+p, h2, h3 {
     text-align: center;
     padding: 10px;
 }
@@ -234,6 +234,7 @@ footer p {
     padding:1%;
     color: #6d8474;
 }
+
 
 /*Media Queries*/
 /* Screens above 700px wide */ 
