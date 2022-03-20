@@ -12,6 +12,11 @@ body {
     color: #6d8474;
 }
 
+p, h2{
+    text-align: center;
+    padding: 10px;
+}
+
 /* Headings and Logo */ 
 
 #header {
