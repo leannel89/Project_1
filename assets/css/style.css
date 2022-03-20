@@ -107,6 +107,17 @@ h1 {
 
 }
 
+/*Keep in Touch Page */ 
+
+#sign_up {
+    height: 600px;
+    background-image: url('../photos/sign_up.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+
+}
+
   /* footer section */
 
 footer {
