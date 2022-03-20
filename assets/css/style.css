@@ -107,6 +107,10 @@ h1 {
 
 }
 
+#iframe {
+    width: 100%;
+}
+
 /*Keep in Touch Page */ 
 
 #sign_up {
