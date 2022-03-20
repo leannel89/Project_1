@@ -257,8 +257,18 @@ footer p {
     }
  
     #exercise p {
-        padding: 150px;
+        padding: 100px;
  
  }
+
+ p {
+    line-height: 65px;
+    font-size: larger;
+}
+
+h2 {
+    font-size: 45px;
+    font-weight: bold;
+}
 
 }
