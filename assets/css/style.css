@@ -132,6 +132,13 @@ h1 {
     
   }
 
+  /* Exercise */
+  #exercise {
+    background: url('../photos/exercise.png') no-repeat center center;
+    background-size: cover;
+    margin: 10px 0 10px 0;
+}
+
 /*Keep in Touch Page */ 
 
 #sign_up {
