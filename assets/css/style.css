@@ -111,6 +111,16 @@ h1 {
 #iframe {
     width: 100%;
 }
+/* Image Curating Desktop Background */
+
+#workstation {
+    background: url(../photos/workstation.jpg) no-repeat center center;
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    position:relative;
+}
+
 
 /* DOWNLOAD DESKTOP BACKGROUNDS */
 
