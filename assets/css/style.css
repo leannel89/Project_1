@@ -79,6 +79,14 @@ h1 {
     background-position:center;
     background-repeat:no-repeat;
   }
+/* Risk Factor Section */
+
+#factors li {
+    text-align: center;
+    list-style-type: circle;
+    font-style: italic;
+}
+
 
   /* footer section */
 
