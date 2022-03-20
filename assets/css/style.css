@@ -106,10 +106,31 @@ h1 {
     background-repeat:no-repeat;
 
 }
+/* YOUTUBE VIDEO */
 
 #iframe {
     width: 100%;
 }
+
+/* DOWNLOAD DESKTOP BACKGROUNDS */
+
+#button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.download_desktop {
+    background-color: #6d8474;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px; 
+    
+  }
 
 /*Keep in Touch Page */ 
 
