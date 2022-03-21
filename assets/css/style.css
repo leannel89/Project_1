@@ -74,7 +74,7 @@ h1 {
 
 #hero-image {
     height: 600px;
-    background-image: url(../photos/hero_image.png);
+    background-image: url(../photos/hero_image.webp);
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
