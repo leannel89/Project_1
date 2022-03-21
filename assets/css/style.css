@@ -118,9 +118,9 @@ h1 {
 #workstation {
     background: url('../photos/workstation.webp') no-repeat center center;
     height: 300px;
-    width: 100%;
-    background-size: cover;
-    position:relative;
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
 }
 
 
