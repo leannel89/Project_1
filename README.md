@@ -21,3 +21,6 @@ As this is an expansive topic, I have chosen to keep the content light in order 
 - As an organisation I want to provide useable information
 - As an organisation I want to gain a sizeable list to advertise our services to potential clients
 - As an organisation I want to gain social media followers to advertise our services to potential clients
+
+## Wireframing ##
+
