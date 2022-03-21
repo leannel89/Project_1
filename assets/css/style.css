@@ -82,11 +82,13 @@ h1 {
 /* Risk Factor Section */
 
 #stress {
-    background: url('../photos/stress.webp') center center;
+    /*background: url('../photos/stress.webp') center center;*/
     height:400px;
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
+    background-color: #6d8474;
+    color: #fafafa;
 }
 
 
