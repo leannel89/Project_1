@@ -35,9 +35,9 @@ This was a learning curve as i then moved from a one page navigation to separate
 
 ## Colour Scheme ##
 
-The colour scheme was devised from a pinterest board in which I collated in advance of the project commencement, the site is aimed at a corporate audience so it needed to be clean, easily read and not too “out-there”. 
+The colour scheme was devised from a eucalyptus-inspired colour palate , the site is aimed at a corporate audience so it needed to be clean, easily read and not too “out-there”. 
 
-[](images/wellnest_color_scheme.png)
+![](images/wellnest_color_scheme.png)
 
 
 ## Header Logo & Navigation ##
@@ -46,7 +46,7 @@ While the company logo was developed for an aesthetic reason, a secondary logo w
 
 The header is fixed on all devices to allow ease of navigation, the navigation section moves from underneath to the right when via mobile, hover affects are also utilised to aid in user navigation. 
 
-[](images/header.png)
+![](images/header.png)
 
 
 ## About Page ##
@@ -64,18 +64,19 @@ The footer is an important element as the company wishes to gain social media fo
 
 ### HTML Validator ###
 
-I tested the site via dropping in the code to the W3 HTML vaildatior, it returned with two errors
+I tested the site via dropping in the code to the [W3C Markup Validation Service](https://validator.w3.org), it returned with two errors
 
 ![](images/bug_html.png)
 
-With easy solutions, two close the open elements 
+Thankfully with easy solutions, to close the open elements.
+Once these were closed the the site passed with no errors. 
 
 ### CSS Validator ###
-I tested the style.css via dropping the code into the W3 CSS validator.
+I tested the style.css via dropping the code into [Jigsaw.w3.org](https://jigsaw.w3.org/css-validator/validator.html.en)
 
 ![](images/bug_css.png)
 
-I removed the word device from the min-device-width , which fixed the error and caused no issues with the code. 
+I removed the word device from the min-device-width , which fixed the error and caused no issues with the code, and was tested again and passed with no errors. 
 
 ### Lighthouse ###
 
@@ -92,30 +93,36 @@ I have tested the webpage on Chrome, Internet Explorer, Safari and Firefox and a
 
 ## Fixed Bugs ##
 
+Aside from the issues stated above. In the beating burnout page the section below was not acting as it should, the image was covering the header afecting the aestheics of the page. 
+
+![](images/beating_burnout_bug.png)
+
+This was fixed by removing an accidental additonal attribute.
 
 ## Deployment ##
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Main Branch
 Once the ,ain branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here  https://leannel89.github.io/project_1/.
+The live link can be found [here](https://leannel89.github.io/project_1/)
 
 ## Credits ##
 
-- The icons on the footer were taken from Font Awesome. 
-- Content on work related burnout was taken from Mayoclinic.org
-- Beating burnout tips were taken from Luxafor.com
-- Curating your workspace was taken from https://research.bond.edu.au/en/publications/the-case-for-finally-cleaning-your-desk 
+- The icons on the footer were taken from [Font Awesome](https://fontawesome.com/).
+- Content on work related burnout was taken from [Mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642)
+- Beating burnout tips were taken from [Luxafor.com](https://luxafor.com/)
+- Curating your workspace was taken from [Bond University](https://research.bond.edu.au/en/publications/the-case-for-finally-cleaning-your-desk)
 - Exercise facts were taken from https://pubmed.ncbi.nlm.nih.gov/25870778/ 
+- The Eucalyptus-inspired color palatte was taken from [Akula Kreative at akulakreative.com](https://akulakreative.com/blog/2017/3/a-eucalyptus-inspired-color-palette)
 
 
 ## Media ##
 
-- Home page hero image -  Photo by Edward Jenner from Pexels
-- Overlaying logo was made using Canva.  
-- Exercise section background image Photo by Mikhail Nilov from Pexels.
-- The background desktop download image - Photo by Manuela Adler from Pexels.
-- Curating workstation image - Photo by cottonbro from Pexels
+- Home page hero image -  [Photo by Edward Jenner from Pexels](https://www.pexels.com/photo/green-plant-covered-with-snow-4250573/)
+- Overlaying logo was made using [Canva](https://www.canva.com).  
+- Exercise section background image [Photo by Mikhail Nilov from Pexels.](https://www.pexels.com/photo/woman-in-black-leggings-unrolling-a-yoga-mat-6740754/)
+- The background desktop download image - [Photo by Manuela Adler from Pexels.](https://leannel89-project1-orml8qbyhyq.ws-eu38.gitpod.io/)
+- Curating workstation image - [Photo by cottonbro from Pexels](https://www.pexels.com/photo/person-in-beige-long-sleeve-shirt-using-macbook-pro-4065876/)
 
-## video ##
-Square Breathing – Guided by UAB Student Affairs on Youtube. 
+## Video ##
+Square Breathing – Guided by [UAB Student Affairs](https://www.youtube.com/channel/UCikiUwDAVxi-n4FsBwe8DnA) on Youtube. 
