@@ -37,7 +37,7 @@ This was a learning curve as i then moved from a one page navigation to separate
 
 The colour scheme was devised from a pinterest board in which I collated in advance of the project commencement, the site is aimed at a corporate audience so it needed to be clean, easily read and not too “out-there”. 
 
-[](images/wellnest_color_scheme.png)
+![](images/wellnest_color_scheme.png)
 
 
 ## Header Logo & Navigation ##
