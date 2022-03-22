@@ -58,6 +58,7 @@ The landing page has a hero background of eucalyptus faded out slightly with the
 
 The footer is an important element as the company wishes to gain social media following, this was placed on every page and set out in a clear format with logos
 
+![](images/social_links.png)
 
 ## Testing ##
 
@@ -80,14 +81,14 @@ I removed the word device from the min-device-width , which fixed the error and 
 
 ![](images/performance_pre.png)
 
-The high quality images present on all pages were slowing down my webs performance greatly, initally I changed them to webp from .jpeg /.png but this did not improve the result at all, then I resized all images with Tinypng - which increased the performance greatly
+Initally I had very large images present on all pages, this affected performance greatly, initally I changed them to webp from .jpeg /.png , as suggested by lighthouse, but this did not improve the result at all, then I resized all images with Tinypng - which increased the performance greatly.
 
 ![](images/performance_after.png)
 
 
 ### Browsers ###
 
-I have tested the webpage on Chrome, Internet Explorer, Safari and Firefox and all gave the same result. 
+I have tested the webpage on Chrome, Internet Explorer, Safari and Firefox and all have given good performance. 
 
 ## Fixed Bugs ##
 
@@ -95,12 +96,13 @@ I have tested the webpage on Chrome, Internet Explorer, Safari and Firefox and a
 ## Deployment ##
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here  
+From the source section drop-down menu, select the Main Branch
+Once the ,ain branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here  https://leannel89.github.io/project_1/.
 
 ## Credits ##
 
+The icons on the footer were taken from Font Awesome. 
 Content on work related burnout was taken from Mayoclinic.org
 Beating burnout tips were taken from Luxafor.com
 Curating your workspace was taken from https://research.bond.edu.au/en/publications/the-case-for-finally-cleaning-your-desk 
