@@ -76,7 +76,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here 
+The live link can be found here  
 
 ## Credits ##
 
@@ -84,10 +84,11 @@ The live link can be found here
 
 ## Media ##
 
-- Home page hero image was taken from Pexels - credit to Edward Jenner
-- The overlaying logo was made by myself via Canva. 
-- The Exercise section background image was found on pixels - credit to Mikhail Nilov
-- The background desktop download image was found on pixels credit to Manuela adler. 
+- Home page hero image -  Photo by Edward Jenner from Pexels
+- Overlaying logo was made using Canva.  
+- Exercise section background image Photo by Mikhail Nilov from Pexels.
+- The background desktop download image - Photo by Manuela Adler from Pexels.
+- Curating workstation image - Photo by cottonbro from Pexels
 
-### video ###
-
+## video ##
+Square Breathing – Guided by UAB Student Affairs
