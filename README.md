@@ -80,6 +80,10 @@ The live link can be found here
 
 ## Credits ##
 
+Content on work related burnout was taken from Mayoclinic.org
+Beating burnout tips were taken from Luxafor.com
+Curating your workspace was taken from https://research.bond.edu.au/en/publications/the-case-for-finally-cleaning-your-desk 
+Exercise facts were taken from https://pubmed.ncbi.nlm.nih.gov/25870778/ 
 
 
 ## Media ##
