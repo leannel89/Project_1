@@ -39,6 +39,12 @@ The colour scheme was devised from a eucalyptus-inspired colour palate , the sit
 
 ![](images/wellnest_color_scheme.png)
 
+## Fonts ##
+
+![](images/font.png)
+
+Throught the page Poppins is used, its has a light softer appearance but has a corporate feel to it, which I thought suited the project. 
+- Font sourced from Google fonts as stated in the content section. 
 
 ## Header Logo & Navigation ##
 
@@ -53,6 +59,23 @@ The header is fixed on all devices to allow ease of navigation, the navigation s
 
 The landing page has a hero background of eucalyptus faded out slightly with the logo placed in the centre keeping in theme with I love ucaplptus pinterst theme.  This image is to covey a clean and calm space to the user. 
 
+
+## Keep in Touch Page ##
+
+The most important page, as it creates a well of leads for the Wellnest company, it allows weekly content to be pushed to its target market. 
+The end user fills out their details to opt in. 
+
+![](images/keep_in_touch.png)
+
+## Beating Burnout Page ##
+
+This page gives tips and tricks for easy to implement ways to combat burnout, including an easy to follow video. 
+
+![](images/video_content.png)
+
+And an even easier to implement, downloadable desktop background
+
+![](images/download_desktop.png)
 
 ## Footer ##
 
@@ -106,9 +129,10 @@ From the source section drop-down menu, select the Main Branch
 Once the ,ain branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 The live link can be found [here](https://leannel89.github.io/project_1/)
 
-## Credits ##
+## Content ##
 
 - The icons on the footer were taken from [Font Awesome](https://fontawesome.com/).
+- Fonts were sourced from [Google Fonts](https://fonts.google.com)
 - Content on work related burnout was taken from [Mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642)
 - Beating burnout tips were taken from [Luxafor.com](https://luxafor.com/)
 - Curating your workspace was taken from [Bond University](https://research.bond.edu.au/en/publications/the-case-for-finally-cleaning-your-desk)
