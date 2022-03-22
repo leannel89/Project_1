@@ -63,13 +63,34 @@ The footer is an important element as the company wishes to gain social media fo
 
 ### HTML Validator ###
 
+I tested the site via dropping in the code to the W3 HTML vaildatior, it returned with two errors
+
+![](images/bug_html.png)
+
+With easy solutions, two close the open elements 
+
 ### CSS Validator ###
+I tested the style.css via dropping the code into the W3 CSS validator.
+
+![](images/bug_css.png)
+
+I removed the word device from the min-device-width , which fixed the error and caused no issues with the code. 
 
 ### Lighthouse ###
 
+![](images/performance_pre.png)
+
+The high quality images present on all pages were slowing down my webs performance greatly, initally I changed them to webp from .jpeg /.png but this did not improve the result at all, then I resized all images with Tinypng - which increased the performance greatly
+
+![](images/performance_after.png)
+
+
 ### Browsers ###
 
+I have tested the webpage on Chrome, Internet Explorer, Safari and Firefox and all gave the same result. 
+
 ## Fixed Bugs ##
+
 
 ## Deployment ##
 The site was deployed to GitHub pages. The steps to deploy are as follows:
