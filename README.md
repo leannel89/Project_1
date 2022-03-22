@@ -52,6 +52,7 @@ The header is fixed on all devices to allow ease of navigation, the navigation s
 ## About Page ##
 
 The landing page has a hero background of eucalyptus faded out slightly with the logo placed in the centre keeping in theme with I love ucaplptus pinterst theme.  This image is to covey a clean and calm space to the user. 
+It allows the user to gain insight into the company and facts about burnout. 
 
 
 ## Footer ##
