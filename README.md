@@ -37,7 +37,7 @@ This was a learning curve as i then moved from a one page navigation to separate
 
 The colour scheme was devised from a pinterest board in which I collated in advance of the project commencement, the site is aimed at a corporate audience so it needed to be clean, easily read and not too “out-there”. 
 
-![](images/wellnest_color_scheme.png)
+[](images/wellnest_color_scheme.png)
 
 
 ## Header Logo & Navigation ##
@@ -52,7 +52,6 @@ The header is fixed on all devices to allow ease of navigation, the navigation s
 ## About Page ##
 
 The landing page has a hero background of eucalyptus faded out slightly with the logo placed in the centre keeping in theme with I love ucaplptus pinterst theme.  This image is to covey a clean and calm space to the user. 
-It allows the user to gain insight into the company and facts about burnout. 
 
 
 ## Footer ##
