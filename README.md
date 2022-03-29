@@ -20,13 +20,12 @@ The client has previously gained business through  social media alone and now wa
 3. Features
    -  Inital Deployment Features
    -  Future Features
-4. Technologies Used
-5. Testing
+4. Testing
     - Automated Testing
     - Client feature expectation testing
     - User Stories / Expectations
-6. Deployment
-7. Credits
+5. Deployment
+6. Credits
 
 
 # Site Design Considerations #
@@ -62,7 +61,7 @@ The colour scheme was devised from a eucalyptus-inspired colour palate , the sit
 
 ![](images/font.png)
 
-Throught the page Poppins is used, its has a light softer appearance but has a corporate feel to it, which I thought suited the project.   
+Through out the pages Poppins is used, its has a light softer appearance but has a corporate feel to it, which suits the project.  
 - Font sourced from Google fonts as stated in the content section.  
 
 # Wireframes #
@@ -120,8 +119,8 @@ The footer is an important element as the company wishes to gain social media fo
 
 ![](images/social_links.png)
 
+The social media logos also have inactivity when hovering over, they turn slighly opaque to help with navigation. 
 
-# Technologies Used #
 
 # Testing #
 
@@ -129,13 +128,36 @@ The footer is an important element as the company wishes to gain social media fo
 
 I tested each element of the site as outlined below:  
 
-The Home Page  
+### The Home Page  ###
 
-- Tested the 
+- Tested the navigation links in the menu, all functioning. 
+- Hover works on Navigation links - line apears under list item. 
+- Tested the social media links, all open in new tab as expected.
+- Hover works on social media icons, all icons turn slightly opaque. 
+
+### Beating Burnout Page ###
+
+- Tested the navigation links in the menu, all functioning. 
+- Hover works on Navigation links - line apears under list item.
+- Youtube video does not play on opening of page as expected. 
+- Download desktop background functions, jpg downloads named calm_desktop. 
+- Tested the social media links, all open in new tab as expected.
+- Hover works on social media icons, all icons turn slightly opaque. 
+
+
+### Keep in Touch Page ###
+- Tested the navigation links in the menu, all functioning. 
+- Hover works on Navigation links - line apears under list item. 
+- Tested Sign up form - omited each items and would not let me submit as expected. Placed a non email address in email address input and would not allow submit, as expected. 
+- filled out correctly and navigated to the form dump correctly with inputs and values correct. 
+- Google maps functioning and in correct location. 
+- Tested the social media links, all open in new tab as expected.
+- Hover works on social media icons, all icons turn slightly opaque. 
+
 
 ### Browsers ###
 
-I have tested the webpage on Chrome, Internet Explorer, Safari and Firefox and all have given good performance. 
+The Website has been tested on Chrome, Internet Explorer, Safari and Firefox and all are functioning as they should. 
 
 # Automated Testing #
 
@@ -163,6 +185,9 @@ Initally I had very large images present on all pages, this affected performance
 
 ![](images/performance_after.png)
 
+### Am I Responsive ###
+
+Website was run through [Am I Responsive](http://ami.responsivedesign.is/) and the pages proved to be responsive on all devices.
 
 ## Fixed Bugs ##
 
