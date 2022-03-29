@@ -237,6 +237,9 @@ footer p {
     padding:1%;
     color: #6d8474;
 }
+.social-networks i:hover {
+    opacity: .5;
+}
 
 
 /*Media Queries*/
