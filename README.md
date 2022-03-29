@@ -5,7 +5,7 @@
 
 Welcome to Wellnest . A website developed as a source of information for companies and professionals seeking assistance in avoiding workplace burnout.  
 Wellnest arranges corporate wellness events and also provide knowledge to empower employees and companies to implement workplace mindfulness.  
-The client has previously gained business through  social media alone and now wants a professional space to point their positional customers to in order to drive leads. 
+The client has previously gained business through  social media alone and now wants a professional space to point their potential customers to, in order to drive leads. 
 
 ![](images/responsive.png)
 
@@ -16,7 +16,7 @@ The client has previously gained business through  social media alone and now wa
     - Colour Scheme & Font
 2. Wireframes
     - Mobile
-    - Laptop
+    - Desktop
 3. Features
    -  Inital Deployment Features
    -  Future Features
@@ -67,16 +67,21 @@ Throught the page Poppins is used, its has a light softer appearance but has a c
 
 # Wireframes #
 
-![](images/wf_desktop.png)
-![](images/wf_mobile.png)
 
-Following the advise of my mentor Marcel I redeveloped the wireframe to commence a mobile first approach. 
+# Mobile #
+![](images/wf_mobile.png)  
+
+The webpage was developed in a mobile first approach. 
+
+# Desktop #
+
+![](images/wf_desktop.png)  
 
 Basic wireframes were created using Balsamiq Cloud.  
-I went a little further almost to mockup level to help visualise the development needed. Having the skeleton in place focused subsequent coding.  
-This was a learning curve as i then moved from a one page navigation to separate landing pages, as the content felt too sparse, and didn’t work based on my current skillset. 
+The client wanted to push the wire frame slightly further to include some imagery and colour, lalmost to mockup level to help visualise the development needed.  
 
 
+# Features #
 
 ## Header Logo & Navigation ##
 
@@ -115,15 +120,24 @@ The footer is an important element as the company wishes to gain social media fo
 
 ![](images/social_links.png)
 
-## Testing ##
 
-### Manual Testing ###
+# Technologies Used #
+
+# Testing #
+
+## Manual Testing ##
 
 I tested each element of the site as outlined below:  
 
 The Home Page  
 
 - Tested the 
+
+### Browsers ###
+
+I have tested the webpage on Chrome, Internet Explorer, Safari and Firefox and all have given good performance. 
+
+# Automated Testing #
 
 ### HTML Validator ###
 
@@ -150,10 +164,6 @@ Initally I had very large images present on all pages, this affected performance
 ![](images/performance_after.png)
 
 
-### Browsers ###
-
-I have tested the webpage on Chrome, Internet Explorer, Safari and Firefox and all have given good performance. 
-
 ## Fixed Bugs ##
 
 Aside from the issues stated above. In the beating burnout page the section below was not acting as it should, the image was covering the header afecting the aestheics of the page. 
@@ -162,12 +172,14 @@ Aside from the issues stated above. In the beating burnout page the section belo
 
 This was fixed by removing an accidental additonal attribute.
 
-## Deployment ##
+# Deployment #
 The site was deployed to GitHub pages. The steps to deploy are as follows:  
 - In the GitHub repository, navigate to the Settings tab  
 - From the source section drop-down menu, select the Main Branch  
 - Once the ,ain branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.  
 - The live link can be found [here](https://leannel89.github.io/project_1/)  
+
+# Credit #
 
 ## Content ##
 
