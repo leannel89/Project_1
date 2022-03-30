@@ -199,7 +199,7 @@ Mobile Results - all pages came back with a positive result
 
 ### Desktop ###
 
-Deskktop Results - an error was noted that there were two hrefs that were not linked, affecting SEO.
+Desktop Results - an error was noted that there were two hrefs that were not linked, affecting SEO.
 
 ![](images/seo_error.png)
 
