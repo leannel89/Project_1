@@ -3,9 +3,12 @@
 ![](images/wellnest_logo.png)
 
 
-Welcome to Wellnest . A website developed as a source of information for companies and professionals seeking assistance in avoiding workplace burnout.  
+## Welcome to Wellnest ##
+A website developed as a source of information for companies and professionals seeking assistance in avoiding workplace burnout.  
 Wellnest arranges corporate wellness events and also provide knowledge to empower employees and companies to implement workplace mindfulness.  
 The client has previously gained business through  social media alone and now wants a professional space to point their potential customers to, in order to drive leads. 
+
+## The deployed website can be found [here](https://leannel89.github.io/project_1/) ##
 
 ![](images/responsive.png)
 
@@ -93,15 +96,8 @@ The header is fixed on all devices to allow ease of navigation, the navigation s
 
 ## About Page ##
 
-The landing page has a hero background of eucalyptus faded out slightly with the logo placed in the centre keeping in theme with I love ucaplptus pinterst theme.  This image is to covey a clean and calm space to the user. 
+The landing page has a hero image of eucalyptus faded out slightly with the logo placed in the centre keeping in theme with I love- ucaplptus theme.  This image is to covey a clean and calm space to the user. 
 
-
-## Keep in Touch Page ##
-
-The most important page, as it creates a well of leads for the Wellnest company, it allows weekly content to be pushed to its target market. 
-The end user fills out their details to opt in. 
-
-![](images/sign_up.png)
 
 ## Beating Burnout Page ##
 
@@ -114,6 +110,14 @@ And an even easier to implement, downloadable desktop background
 
 
 ![](images/download.png)
+
+
+## Keep in Touch Page ##
+
+The most important page, as it creates a well of leads for the Wellnest company, it allows weekly content to be pushed to its target market. 
+The end user fills out their details to opt in. 
+
+![](images/sign_up.png)
 
 ## Footer ##
 
@@ -157,10 +161,9 @@ I tested each element of the site as outlined below:
 - Hover works on social media icons, all icons turn slightly opaque. 
 
 
-### Browsers ###
+# Browsers #
 
-The Website has been tested on Chrome, Internet Explorer & Safari and all are functioning as they should. 
-Firefox would not allow the the desktop image to download without a lot of customised settings, but this is to be expected with 
+The Website has been tested on Chrome, Internet Explorer & Safari and all are functioning as they should, bar Firefox the ability to download the image was not available on firefox and due to limitations in developer skill was unable to rectify. 
 
 # Automated Testing #
 
@@ -173,20 +176,38 @@ I tested the site via dropping in the code to the [W3C Markup Validation Service
 Thankfully with easy solutions, to close the open elements.
 Once these were closed the the site passed with no errors. 
 
-### CSS Validator ###
+# CSS Validator #
 I tested the style.css via dropping the code into [Jigsaw.w3.org](https://jigsaw.w3.org/css-validator/validator.html.en)
 
 ![](images/bug_css.png)
 
 I removed the word device from the min-device-width , which fixed the error and caused no issues with the code, and was tested again and passed with no errors. 
 
-### Lighthouse ###
+# Lighthouse #
 
 ![](images/performance_pre.png)
 
-Initally I had very large images present on all pages, this affected performance greatly, initally I changed them to webp from .jpeg /.png , as suggested by lighthouse, but this did not improve the result at all, then I resized all images with Tinypng - which increased the performance greatly.
+Initally the page had very large images present on all pages, this affected performance greatly, initally they were to webp from .jpeg /.png , as suggested by lighthouse, but this did not improve the result at all, then I resized all images with Tinypng - which increased the performance greatly.
 
 ![](images/performance_after.png)
+
+### Mobile ###
+
+Mobile Results - all pages came back with a positive result
+
+![](images/mobile.png)
+
+### Desktop ###
+
+Deskktop Results - an error was noted that there were two hrefs that were not linked, affecting SEO.
+
+![](images/seo_error.png)
+
+These were removed and re tested. 
+
+![](images/seo_retest.png)
+
+All pages then came out with similar results. 
 
 ### Am I Responsive ###
 
@@ -199,6 +220,11 @@ Aside from the issues stated above. In the beating burnout page the section belo
 ![](images/beating_burnout_bug.png)
 
 This was fixed by removing an accidental additonal attribute.
+
+There was also an issue found with downloading the desktop background, this was then rectified by adding a download
+
+![](images/download_bug.png)
+
 
 # Deployment #
 The site was deployed to GitHub pages. The steps to deploy are as follows:  
