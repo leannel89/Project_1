@@ -109,7 +109,9 @@ This page gives tips and tricks for easy to implement ways to combat burnout, in
 
 ![](images/video_content.png)
 
+
 And an even easier to implement, downloadable desktop background
+
 
 ![](images/download.png)
 
