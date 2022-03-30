@@ -116,7 +116,7 @@ h1 {
 /* Image Curating Desktop Background */
 
 #workstation {
-    background: url(../photos/workstation.webp) no-repeat center center;
+    background: url(../photos/workstation.jpg) no-repeat center center;
     height: 300px;
     background-size:cover;
     background-position:center;
