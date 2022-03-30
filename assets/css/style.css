@@ -82,13 +82,13 @@ h1 {
 /* Risk Factor Section */
 
 #stress {
-    /*background: url('../photos/stress.webp') center center;*/
+    background: url(../photos/stress.webp) center center;
     height:400px;
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
     background-color: #6d8474;
-    color: #fafafa;
+    color: #3a3a3a;
 }
 
 
@@ -102,7 +102,7 @@ h1 {
 
 #burnout {
     height: 600px;
-    background-image: url('../photos/burnout_img.webp');
+    background-image: url(../photos/burnout_img.webp);
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -116,7 +116,7 @@ h1 {
 /* Image Curating Desktop Background */
 
 #workstation {
-    background: url('../photos/workstation.webp') no-repeat center center;
+    background: url(../photos/workstation.webp) no-repeat center center;
     height: 300px;
     background-size:cover;
     background-position:center;
@@ -146,7 +146,7 @@ h1 {
 
   /* Exercise */
   #exercise {
-    background: url('../photos/exercise.webp') no-repeat center center;
+    background: url(../photos/exercise.webp) no-repeat center center;
     background-size: cover;
     margin: 10px 0 10px 0;
     color: #3a3a3a;

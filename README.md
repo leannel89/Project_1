@@ -159,7 +159,8 @@ I tested each element of the site as outlined below:
 
 ### Browsers ###
 
-The Website has been tested on Chrome, Internet Explorer, Safari and Firefox and all are functioning as they should. 
+The Website has been tested on Chrome, Internet Explorer & Safari and all are functioning as they should. 
+Firefox would not allow the the desktop image to download without a lot of customised settings, but this is to be expected with 
 
 # Automated Testing #
 
