@@ -101,7 +101,7 @@ The landing page has a hero background of eucalyptus faded out slightly with the
 The most important page, as it creates a well of leads for the Wellnest company, it allows weekly content to be pushed to its target market. 
 The end user fills out their details to opt in. 
 
-![](images/keep_in_touch.png)
+![](images/sign_up.png)
 
 ## Beating Burnout Page ##
 
@@ -111,7 +111,7 @@ This page gives tips and tricks for easy to implement ways to combat burnout, in
 
 And an even easier to implement, downloadable desktop background
 
-![](images/download_desktop.png)
+![](images/download.png)
 
 ## Footer ##
 
