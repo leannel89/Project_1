@@ -221,7 +221,7 @@ Aside from the issues stated above. In the beating burnout page the section belo
 
 This was fixed by removing an accidental additonal attribute.
 
-There was also an issue found with downloading the desktop background, this was then rectified by adding a download
+There was also an issue found with downloading the desktop background, this was then rectified by adding having the image open in a new tab. 
 
 ![](images/download_bug.png)
 
