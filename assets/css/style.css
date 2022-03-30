@@ -74,7 +74,7 @@ h1 {
 
 #hero-image {
     height: 600px;
-    background-image: url(../photos/hero_image.webp);
+    background-image: url(../photos/hero_image.jpg);
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -82,7 +82,7 @@ h1 {
 /* Risk Factor Section */
 
 #stress {
-    background: url(../photos/stress.webp) center center;
+    background: url(../photos/stress.jpg) center center;
     height:400px;
     background-size:cover;
     background-position:center;
@@ -102,7 +102,7 @@ h1 {
 
 #burnout {
     height: 600px;
-    background-image: url(../photos/burnout_img.webp);
+    background-image: url(../photos/burnout.jpg);
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -146,7 +146,7 @@ h1 {
 
   /* Exercise */
   #exercise {
-    background: url(../photos/exercise.webp) no-repeat center center;
+    background: url(../photos/exercise.jpg) no-repeat center center;
     background-size: cover;
     margin: 10px 0 10px 0;
     color: #3a3a3a;
@@ -156,7 +156,7 @@ h1 {
 
 #sign_up {
     height: 600px;
-    background-image: url('../photos/sign_up.webp');
+    background-image: url(../photos/sign_up.jpg);
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
